@@ -10,11 +10,16 @@ vagrant plugin install vagrant-reload
     brew install caskroom/cask/brew-cask
   ```  
 3. Install Virtual Box 
-    brew cask install virtualbox
+```sh    
+brew cask install virtualbox
+  ```
 4. Install Vagrant 
-    brew cask install vagrant
+```sh 
+brew cask install vagrant
+  ```
 5. Install Ansible  
-    brew install ansible
-
+```sh 
+brew install ansible
+  ```
 Windows: Prerequisite: First download VirtualBox and install it. Vagrant currently requires VirtualBox.
 
