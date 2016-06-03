@@ -1,6 +1,6 @@
 ##### Vagrant Setup
 
-Install pre-required software on MacBook
+Mac: Prerequisite software on MacBook
 ```sh
 vagrant plugin install vagrant-reload
 ```
