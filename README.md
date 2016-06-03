@@ -4,20 +4,20 @@ Install pre-required software on MacBook
 ```sh
 vagrant plugin install vagrant-reload
 ```
-1. Install brew. See www.brew.sh for instructions
-2. Enable Homebrew Cask 
+- Install brew. See www.brew.sh for instructions
+- Enable Homebrew Cask 
 ```sh
     brew install caskroom/cask/brew-cask
   ```  
-3. Install Virtual Box 
+- Install Virtual Box 
 ```sh    
 brew cask install virtualbox
   ```
-4. Install Vagrant 
+- Install Vagrant 
 ```sh 
 brew cask install vagrant
   ```
-5. Install Ansible  
+- Install Ansible  
 ```sh 
 brew install ansible
   ```
