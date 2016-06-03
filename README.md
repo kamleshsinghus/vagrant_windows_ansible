@@ -1,4 +1,4 @@
-# vagrant_windows_ansible
+Vagrant Setup
 Install pre-required software on MacBook
 Install brew. See www.brew.sh for instructions
 Enable Homebrew Cask
