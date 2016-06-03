@@ -9,7 +9,7 @@ Install pre-required software on MacBook
     brew cask install virtualbox
 4. Install Vagrant 
     brew cask install vagrant
-5. Install Ansible 
+5. Install Ansible  
     brew install ansible
 
 Windows: Prerequisite: First download VirtualBox and install it. Vagrant currently requires VirtualBox.
