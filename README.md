@@ -3,13 +3,13 @@
 Install pre-required software on MacBook
 
 1. Install brew. See www.brew.sh for instructions
-2. Enable Homebrew Cask 
+2. Enable Homebrew Cask  
     brew install caskroom/cask/brew-cask
-3. Install Virtual Box
+3. Install Virtual Box 
     brew cask install virtualbox
-4. Install Vagrant
+4. Install Vagrant 
     brew cask install vagrant
-5. Install Ansible
+5. Install Ansible 
     brew install ansible
 
 Windows: Prerequisite: First download VirtualBox and install it. Vagrant currently requires VirtualBox.
