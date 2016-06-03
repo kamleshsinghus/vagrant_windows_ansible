@@ -5,8 +5,10 @@ Install pre-required software on MacBook
 vagrant plugin install vagrant-reload
 ```
 1. Install brew. See www.brew.sh for instructions
-2. Enable Homebrew Cask  
+2. Enable Homebrew Cask 
+```sh
     brew install caskroom/cask/brew-cask
+  ```  
 3. Install Virtual Box 
     brew cask install virtualbox
 4. Install Vagrant 
